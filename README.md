@@ -2,6 +2,25 @@
 
 Just you wait folks!
 
+## My Commit Message Template
+
+I'd be commiting changes to the repo everytime I finish a video using the following template:
+
+`mXvY`
+
+Where:
+
+* `m` => module
+* `X` => module number
+* `v` => video
+* `Y` => video number
+
+In essence the following commit message ...
+
+`_Finish m4v14_`
+
+... signifies completion of **module 4 video 14**.
+
 ## Sample Data
 
 To load sample data, run the following command in your terminal:
@@ -23,5 +42,4 @@ That will populate 16 stores with 3 authors and 41 reviews. The logins for the a
 |Wes Bos|wes@example.com|wes|
 |Debbie Downer|debbie@example.com|debbie|
 |Beau|beau@example.com|beau|
-
 
