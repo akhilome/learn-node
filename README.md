@@ -7,7 +7,7 @@ Just you wait folks!
 I'd be commiting changes to the repo everytime I finish a video using the following template:
 
 ```
-mXvY
+finish(mXvY): short desc
 ```
 
 Where:
@@ -20,7 +20,7 @@ Where:
 In essence the following commit message ...
 
 ```
-Finish m4v14
+finish(m4v14): edit store details
 ```
 
 ... signifies completion of **module 4 video 14**.
