@@ -6,7 +6,9 @@ Just you wait folks!
 
 I'd be commiting changes to the repo everytime I finish a video using the following template:
 
-`mXvY`
+```
+mXvY
+```
 
 Where:
 
@@ -17,7 +19,9 @@ Where:
 
 In essence the following commit message ...
 
-`_Finish m4v14_`
+```
+Finish m4v14
+```
 
 ... signifies completion of **module 4 video 14**.
 
